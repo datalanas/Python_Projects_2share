@@ -1,5 +1,6 @@
-## My Data Science Projects using Python. 
-This repository is a place to share my notebooks to show you my ideas and workflow.
+## Data Science Projects (python) 
+At this repo you can find notebooks I want to share.
+Any comments are welcome
 
 #### CONTENTS
 
@@ -10,7 +11,7 @@ PREPROCESSING:
 
 MACHINE LEARNING:
 - Binary event [prediction, Titanic](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Prediction_Titanic.ipynb)
-- Price [prediction, House Prices]()
+- Price [prediction, House Prices](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Prediction_HPrices.ipynb)
 
 
 Fell free to contact me by  e-mail lana@datalana.com
