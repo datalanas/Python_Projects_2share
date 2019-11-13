@@ -11,7 +11,7 @@ PREPROCESSING:
 
 MACHINE LEARNING:
 - Binary event [prediction, Titanic](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Prediction_Titanic.ipynb)
-- Price [prediction, House Prices](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Prediction_HPrices.ipynb)
+- Price [prediction, House Prices](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Price_Prediction.ipynb)
 
 
 Fell free to contact me by  e-mail lana@datalana.com
