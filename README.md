@@ -12,7 +12,7 @@ PREPROCESSING:
 MACHINE LEARNING:
 - Binary event prediction, [Titanic](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Prediction_Titanic.ipynb)
 - Price prediction, [House Prices](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Price_Prediction.ipynb)
-- Clustering, Moscow art selling: [notebook here](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Moscow%20clustering%20to%20sell%20an%20art.ipynb) and [map here]()
+- Clustering, Moscow art selling: [notebook here](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Moscow%20clustering%20to%20sell%20an%20art.ipynb) and [map here](https://datalana.com/wp-content/uploads/2019/11/map_moscow_cafe.html)
 
 
 Fell free to contact me by  e-mail lana@datalana.com
