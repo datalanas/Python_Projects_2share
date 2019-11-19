@@ -6,7 +6,7 @@ Any comments are welcome
 
 PREPROCESSING:
 - Simple Data Dictionary, [Titanic](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/DDict_Titanic.ipynb)
-- More comples Data Dictionary, [House Prices](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/DDict_HPrices.ipynb)
+- More complex Data Dictionary, [House Prices](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/DDict_HPrices.ipynb)
 - Deep data cleaning using a Data Dictionary, [House Prices](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Cleaning_HPrice.ipynb)
 
 MACHINE LEARNING:
