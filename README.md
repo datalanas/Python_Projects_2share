@@ -18,4 +18,3 @@ OTHER:
 - Dr.Semmelweis's lessons, [handwashing](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Handwashing.ipynb)
 - Cohort analysis. [Customer retention](https://github.com/datalanas/Jupyter_notebooks_to_share/blob/master/Customer_retention.ipynb)
 
-Fell free to contact me by  e-mail lana@datalana.com
